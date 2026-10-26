@@ -1,0 +1,24 @@
+GHANA COORDINATE CONVERTER
+CUSTOM FREE-USE LICENCE (PROPOSED)
+
+Copyright © 2026 Engr. Lewis Baah. All rights reserved.
+
+1. FREE USE
+The copyright owner permits users to access and use the Ghana Coordinate Converter free of charge for coordinate-conversion purposes.
+
+2. RESTRICTIONS
+Unless the copyright owner gives prior written permission, users may not copy and republish the software, redistribute substantial portions of its source code, create and distribute modified versions, remove or misrepresent the author attribution, rebrand the software as their own, sublicense it, or sell the software or substantial portions of its original materials.
+
+3. NO TRANSFER OF OWNERSHIP
+Access to or use of the application does not transfer ownership of the software or its original materials.
+
+4. THIRD-PARTY MATERIALS AND LEGAL RIGHTS
+This licence applies only to original materials that the copyright owner has the right to license. Third-party components remain subject to their own licences. Nothing in this licence overrides rights that cannot lawfully be restricted.
+
+5. DISCLAIMER
+The software is provided for general use without a guarantee of accuracy or suitability for a particular purpose. Users must independently verify results before relying on them for legal, cadastral, engineering, construction, or other high-consequence surveying work.
+
+6. QUESTIONS AND PERMISSIONS
+Requests to copy, adapt, redistribute, or commercially use the software should be submitted to the copyright owner in writing.
+
+This is a proposed custom licence for review, not a government-issued certificate or a substitute for legal advice. Review it with a qualified Ghanaian intellectual-property lawyer before relying on it for enforcement.

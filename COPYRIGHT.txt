@@ -1,0 +1,30 @@
+GHANA COORDINATE CONVERTER
+COPYRIGHT AND OWNERSHIP NOTICE
+
+Copyright © 2026 Engr. Lewis Baah. All rights reserved.
+
+Creator/author attribution: Engr. Lewis Baah
+Project: Ghana Coordinate Converter
+
+OWNERSHIP NOTICE
+This notice identifies Engr. Lewis Baah as the claimed author and copyright owner of the original software code, interface design, documentation, branding, and other original materials created for the Ghana Coordinate Converter, to the extent those materials are owned by the author and protected by applicable law.
+
+PUBLIC ACCESS
+The application may be made available to the public free of charge for coordinate-conversion use. Free access does not, by itself, transfer ownership or grant permission to copy, republish, redistribute, modify, rebrand, sublicense, or commercially sell the software or substantial portions of its original materials.
+
+PERMISSION
+Except where permitted by applicable law or separately authorised in writing by the copyright owner, permission is required to reproduce, redistribute, adapt, rebrand, or commercially exploit the original software or substantial portions of its original materials.
+
+THIRD-PARTY MATERIALS
+This notice does not claim ownership of third-party libraries, standards, coordinate-system definitions, mathematical methods, or other materials belonging to others. Such materials remain subject to their respective rights and licences.
+
+SURVEYING DISCLAIMER
+Coordinate conversion results should be checked against appropriate authoritative control points and professional requirements before use in cadastral, engineering, construction, or other legally significant work.
+
+CONTACT
+For permission requests, contact the copyright owner through the contact details published with the official project.
+
+NOTICE
+This document is a copyright notice and proposed usage restriction. It is not a government-issued copyright certificate, a legal opinion, or proof by itself that every component of the software is owned by the named author. Keep dated source files and development records, and consult the Ghana Copyright Office or a qualified Ghanaian intellectual-property lawyer about registration and enforcement.
+
+Prepared: 2026
